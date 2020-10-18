@@ -8,18 +8,18 @@ header:
     teaser: /assets/images/blog/
     og_image: /assets/images/blog/
 keywords:
-	- Surface
-	- surface
-	- as
-	- A/S
-	- cs
-	- C/S
-	- service
-	- contact
-	- contactus
-	- microsoft
-	- Microsoft
-	- 연락처
+    - Surface
+    - surface
+    - as
+    - A/S
+    - cs
+    - C/S
+    - service
+    - contact
+    - contactus
+    - microsoft
+    - Microsoft
+    - 연락처
     - 서피스
     - 사후지원
     - 서비스
@@ -30,7 +30,7 @@ categories:
     - general
 tags:
     - general
-	- service
+    - service
 published: true
 sitemap: 
     changefreq: daily
