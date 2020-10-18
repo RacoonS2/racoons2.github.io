@@ -1,8 +1,8 @@
 ---
-layout: customize-posts
-title: 서피스 고객센터 연락처
+title: "서피스 고객센터 연락처"
 date: 2020-10-18
 last_modified_at: 2020-10-18
+layout: customize-posts
 description: "서피스 고객센터 연락처"
 header:
     teaser: /assets/images/blog/
@@ -26,7 +26,7 @@ keywords:
     - 연락
     - 연락하기
     - 마이크로소프트
-category:
+categories:
     - general
 tags:
     - general
