@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://racoons2.github.io/sitemap.xml
